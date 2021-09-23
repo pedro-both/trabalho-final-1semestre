@@ -1,0 +1,22 @@
+{
+  "name": "trabalho-final-1semestre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-both/trabalho-final-1semestre.git"
+  },
+  "keywords": [
+    "trabalho-final-1semestre"
+  ],
+  "author": "Pedro Both",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro-both/trabalho-final-1semestre/issues"
+  },
+  "homepage": "https://github.com/pedro-both/trabalho-final-1semestre#readme"
+}
